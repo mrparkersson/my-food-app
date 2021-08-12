@@ -1,2 +1,2 @@
-assignment from my coursess
+assignment from my course
 my food app
